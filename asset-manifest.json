@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-watchlist/static/css/main.03f32f52.css",
-    "main.js": "/react-watchlist/static/js/main.4d131238.js",
+    "main.js": "/react-watchlist/static/js/main.dfcfa44a.js",
     "static/media/eva.webp": "/react-watchlist/static/media/eva.97985b7c2774a8c8d780.webp",
     "static/media/piece.jpg": "/react-watchlist/static/media/piece.9234ca403e02780f92b5.jpg",
     "static/media/titan.jpg": "/react-watchlist/static/media/titan.3debfcea12bbb4b1db4b.jpg",
@@ -14,10 +14,10 @@
     "static/media/cowboy.jpg": "/react-watchlist/static/media/cowboy.20d3b9e26bd4e5d16088.jpg",
     "index.html": "/react-watchlist/index.html",
     "main.03f32f52.css.map": "/react-watchlist/static/css/main.03f32f52.css.map",
-    "main.4d131238.js.map": "/react-watchlist/static/js/main.4d131238.js.map"
+    "main.dfcfa44a.js.map": "/react-watchlist/static/js/main.dfcfa44a.js.map"
   },
   "entrypoints": [
     "static/css/main.03f32f52.css",
-    "static/js/main.4d131238.js"
+    "static/js/main.dfcfa44a.js"
   ]
 }
