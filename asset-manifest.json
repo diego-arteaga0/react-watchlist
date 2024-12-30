@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-watchlist/static/css/main.03f32f52.css",
+    "main.js": "/react-watchlist/static/js/main.4d131238.js",
+    "static/media/eva.webp": "/react-watchlist/static/media/eva.97985b7c2774a8c8d780.webp",
+    "static/media/piece.jpg": "/react-watchlist/static/media/piece.9234ca403e02780f92b5.jpg",
+    "static/media/titan.jpg": "/react-watchlist/static/media/titan.3debfcea12bbb4b1db4b.jpg",
+    "static/media/juju.jpg": "/react-watchlist/static/media/juju.05d7fac40ff54e80c0e0.jpg",
+    "static/media/jojo.jpg": "/react-watchlist/static/media/jojo.08d86c3f9c0a9aa6ee09.jpg",
+    "static/media/animeFavicon.png": "/react-watchlist/static/media/animeFavicon.0e261f2378866321e475.png",
+    "static/media/chainsaw.webp": "/react-watchlist/static/media/chainsaw.42ae77d927a8b1b07bfa.webp",
+    "static/media/play.png": "/react-watchlist/static/media/play.e1e0dc1082e87f37f8b9.png",
+    "static/media/hunter.jpg": "/react-watchlist/static/media/hunter.1b7093ca6dca2df7e902.jpg",
+    "static/media/cowboy.jpg": "/react-watchlist/static/media/cowboy.20d3b9e26bd4e5d16088.jpg",
+    "index.html": "/react-watchlist/index.html",
+    "main.03f32f52.css.map": "/react-watchlist/static/css/main.03f32f52.css.map",
+    "main.4d131238.js.map": "/react-watchlist/static/js/main.4d131238.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03f32f52.css",
+    "static/js/main.4d131238.js"
+  ]
+}
